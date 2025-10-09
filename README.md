@@ -1,4 +1,4 @@
-# My Journey in the Turbin3 Q4 Builder Cohort for Solana
+# Proof of Work ft. Turbin3 Q4 Cohort
 
 This repository serves as my Proof of Work (PoW) documenting my progress and projects as a builder in the Turbin3 Q4 Cohort.
 
