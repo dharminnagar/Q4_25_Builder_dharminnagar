@@ -1,0 +1,17 @@
+[2025-10-15--23-41-19 INFO actix_server::builder] starting 5 workers
+[2025-10-15--23-41-19 INFO actix_server::server] Tokio runtime found; starting in existing Tokio runtime
+[2025-10-15--23-41-19 INFO actix_server::server] starting service: "actix-web-service-127.0.0.1:18488", workers: 5, listening on: 127.0.0.1:18488
+[2025-10-15--23-41-20 INFO parity_ws] Listening for new connections on 127.0.0.1:8900.
+[2025-10-15--23-41-23 INFO txtx::svm::deploy_program] Failure Recovery Info - An ephemeral authority account will be created and funded to write to the buffer account.
+[2025-10-15--23-41-23 INFO txtx::svm::deploy_program] Failure Recovery Info - Please save the following information in case the deployment fails and the account needs to be recovered:
+[2025-10-15--23-41-23 INFO txtx::svm::deploy_program] Failure Recovery Info - Ephemeral authority public key: CXKMZRMzz9Y2emC4MhRz15nwBE3GWRjvcVbgHrkFkm8D
+[2025-10-15--23-41-23 INFO txtx::svm::deploy_program] Failure Recovery Info - Ephemeral authority secret key: 5fMM1y1h1WnwHCHserhcUrpagSdc1XucQbYYgqZ56G4kz3vnqVYZbNvNcGGC3A8S7Rw15DLSa7DVHP4S2YFb8y7P
+[2025-10-15--23-41-23 INFO txtx::svm::deploy_program] Account Created - Ephemeral authority account created and funded to write to buffer
+[2025-10-15--23-41-23 INFO txtx::svm::deploy_program] Failure Recovery Info - Creating program buffer account at pubkey HLJ3efAJf5Jnu3aTFrfFAznuzNNZyxpSenZgXGa4t5RB
+[2025-10-15--23-41-24 INFO txtx::svm::deploy_program] Account Created - Program buffer account created
+[2025-10-15--23-41-25 INFO txtx::svm::deploy_program] Buffer Ready - Writing to buffer account is complete
+[2025-10-15--23-41-25 INFO txtx::svm::deploy_program] Program Created - Program DrfqhqPg77jcQoKYGg3LSuqn16QbzHMirnUFjkfvyVdF has been deployed
+[2025-10-15--23-41-25 INFO txtx::svm::deploy_program] Complete - Ephemeral authority account closed and leftover funds returned to payer
+[2025-10-15--23-41-47 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:58755.
+[2025-10-15--23-41-57 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:58918.
+[2025-10-15--23-42-00 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:58922.
