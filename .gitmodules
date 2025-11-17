@@ -1,0 +1,3 @@
+[submodule "capstone/flew-f1-prediction-market"]
+	path = capstone/flew-f1-prediction-market
+	url = https://github.com/dharminnagar/capstone-permissionless-f1-prediction-market
